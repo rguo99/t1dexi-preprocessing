@@ -1,0 +1,18 @@
+The files in this directory (base_utils.py, insulin_processing.py) are adapted
+from the netIOB T1DEXI processing utilities by the CeADAR Connect Group,
+CeADAR - Ireland's Centre for AI, described in:
+
+  Lewis DM, et al. Data Processing and Best Practices in Large-Scale Diabetes
+  Datasets. Preprint.
+
+They were obtained from the netIOB GitLab repository,
+https://gitlab.com/CeADARIreland_Public/netiob (not installed from the
+`netiob` PyPI package), and are distributed under the Apache License, Version
+2.0 (see LICENSE in this directory). Changes made in this copy are listed in
+each file's module docstring.
+
+That repository is no longer reachable. The PyPI release
+`netiob` 0.1.1 (https://pypi.org/project/netiob/0.1.1/) lists the same
+maintainer, contributors, homepage and license as this code and is believed
+to be the same project, though the exact commit used here was not confirmed
+byte-identical to that release.

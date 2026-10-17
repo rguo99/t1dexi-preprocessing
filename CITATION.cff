@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "T1DEXI preprocessing"
+type: software
+license: MIT
+version: "1.0.0"
+authors:
+  - family-names: Guo
+    given-names: Rachel
+preferred-citation:
+  type: article
+  title: "Clinical and Statistical Metrics Reveal Tradeoffs in Glucose Forecasting for Type 1 Diabetes Decision Support"
+  authors:
+    - family-names: Guo
+      given-names: Rachel
+    - family-names: Levine
+      given-names: Matthew E.
+    - family-names: Wu
+      given-names: Dongxia
+    - family-names: Zaharieva
+      given-names: Dessi P.
+    - family-names: Lal
+      given-names: Rayhan A.
+    - family-names: Fox
+      given-names: Emily B.
+    - family-names: Johari
+      given-names: Ramesh
+  year: 2026
+references:
+  - type: unpublished
+    title: "Data Processing and Best Practices in Large-Scale Diabetes Datasets"
+    notes: "Preprint describing the netIOB T1DEXI processing utilities (CeADAR)."
+    doi: "10.20944/preprints202607.0522.v1"
+    publisher:
+      name: "Preprints.org"
+    year: 2026
+    authors:
+      - family-names: Lewis
+        given-names: D. M.
+      - family-names: Zafar
+        given-names: A.
+      - family-names: Solanke
+        given-names: A.
+      - family-names: Zaharieva
+        given-names: D. P.
+      - family-names: Lal
+        given-names: R.
+      - family-names: Guo
+        given-names: R.
+      - family-names: Shahid
+        given-names: A.

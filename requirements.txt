@@ -1,0 +1,10 @@
+# Python 3.11 (tested with 3.11.14). Versions are those used to produce the
+# published outputs.
+numpy==2.3.4
+pandas==2.3.2
+pyarrow==20.0.0
+pyreadstat==1.3.3
+python-dateutil==2.9.0.post0
+ray==2.51.1
+tqdm==4.67.1
+matplotlib==3.10.7

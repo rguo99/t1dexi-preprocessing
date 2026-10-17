@@ -1,0 +1,33 @@
+# Pipeline outputs (participant-level data; never commit)
+output/
+netiob_cleaned_data/
+cleaned_data/
+processed_data/
+datasets/
+data_filtering/
+by_user/
+raw_t1dexi_data/
+
+# Data files
+*.parquet
+*.csv
+*.pkl
+*.xpt
+*.zip
+*.log
+
+# Figures produced by figures/
+*.pdf
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+*.swp
+.ipynb_checkpoints/
